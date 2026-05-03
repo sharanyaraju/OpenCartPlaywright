@@ -1,8 +1,8 @@
 export class TestConfig{
-appUrl="http://localhost/opencart/upload/"
+appUrl="https://www.opencart.com/"
 //valid login credentials- create your own login account
-email="admin@gmail.com"
-password="admin"
+email="demo"
+password="demo"
 //product details
 productName="MacBook"
 productQuantity="2"
